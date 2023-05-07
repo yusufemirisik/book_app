@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book_app/static/css/main.18023817.css",
+    "main.js": "/book_app/static/js/main.8035e0ac.js",
+    "index.html": "/book_app/index.html",
+    "main.18023817.css.map": "/book_app/static/css/main.18023817.css.map",
+    "main.8035e0ac.js.map": "/book_app/static/js/main.8035e0ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18023817.css",
+    "static/js/main.8035e0ac.js"
+  ]
+}
